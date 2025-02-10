@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste Aula</title>
+</head>
+
+<header>
+    <nav>
+    <h1>Minha Página Pessoal HTML</h1>
+    <input type="button" value="Sobre" />
+    <input type="button" value="Contato" />
+    <hr></hr>
+    </nav>
+</header>
+<body>
+    
+    <h1 id="sobre">Sobre</h1>
+    <h3> Estudante de Engenharia da Computação</h1>
+    
+    <h1 id="contato">Contato</h1>
+    <input type="button" value="Github" id=""/>
+    <link rel="stylesheet" href="https://github.com/joaoviitorsx">
+</body>
+<footer>
+    <hr></hr>
+    Desenvolvido por João Vitor
+    
+</footer>
+</html>
