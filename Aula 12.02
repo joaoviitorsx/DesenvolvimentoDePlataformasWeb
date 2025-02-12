@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Siri Cascudo</title>
+</head>
+<body>
+    <header>
+        <h1>Siri Cascudo</h1>
+            <ul>
+                <li><a href="#">Sobre</a></li>
+                <li><a href="#">Contato</a></li>
+                <li><a href="#">Produtos</a></li>
+                <li><a href="#">Carrinho</a></li>
+            </ul>
+    </header>
+    <section>
+        <h3>Sobre</h3>
+        <p>Nós somos das profundezas do mar</p>
+    </section>
+    
+    <section>
+        <h3>Contato</h3>
+        <p>85 9999999333</p>
+    </section>
+
+    <section>
+        <h3>Nossos Hamburguers</h3>
+        <p> São iguarias culinarias feito para agradar o seu paladar</p>
+
+        <h3>Hambúrguer de Siri: Uma Delícia do Fundo do Mar</h3>
+        <p>O hambúrguer de siri é uma iguaria que traz o sabor do mar diretamente para o seu prato. Feito com carne de siri fresca, este hambúrguer é uma excelente opção para quem busca uma refeição saborosa e nutritiva.</p>
+        <img src="siri.jpg" style= "width: 500px; height: 250px;" alt="Hamburguer Delicioso">
+        
+        <h3>Ingredientes:</h3>
+        <ul>
+            <li>Pao</li>
+            <li>Carne de Siri</li>
+            <li>Ingrediente Secreto</li>
+        </ul>
+    </section>
+
+    <section>
+        <h3>Fazer Pedido</h3>
+        <button>Comprar</button>
+    </section>
+    <footer>
+        <p>&copy; Feito por João Vitor</p>
+        Siga-nos:
+        <a href="https://github.com" target="_blank">GitHub</a> | 
+        <a href="https://www.twitter.com" target="_blank">Twitter</a>
+    </footer>
+</body>
+</html>
